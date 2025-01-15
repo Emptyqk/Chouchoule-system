@@ -1,0 +1,7 @@
+Sunflower,123456,90,110
+Zhenzhen,zhenzhen,99,100
+Hello,hihihi,10,20
+Insomnia,insomnia,200,240
+Lemon,123456,500,300
+user,123456,80,205
+user2,123456,100,100
